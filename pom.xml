@@ -7,6 +7,7 @@
   <name>Kubernetes Client API</name>
   <url>https://github.com/kubernetes-client/java</url>
   <description>Kubernetes Client Library</description>
+  <description>Kubernetes Client Library</description>
 
   <modules>
     <module>util</module>
